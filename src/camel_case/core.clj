@@ -14,4 +14,4 @@
 (defn -main
   "Camel case"
   [& args]
-  (println (camel-case "test-this-app-name")))
+  (println (camel-case "test-this-app-nam")))
